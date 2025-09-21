@@ -1,14 +1,13 @@
+# Exercícios em C Puro - Curso ADS
 
-Este repositório contém exercícios simples em **C**, desenvolvidos como prática durante o curso de Análise e Desenvolvimento de Sistemas (ADS).
+Este repositório reúne exercícios em **C puro** realizados ao longo das aulas do curso de Análise e Desenvolvimento de Sistemas (ADS).  
 
-## 📝 Exercícios
+Os códigos foram desenvolvidos passo a passo conforme os conteúdos foram apresentados em sala, servindo como prática de **lógica de programação**, **estruturas de controle** e **operações básicas**.  
 
-- **imc.c** → Calculadora de IMC  
-- **controle_acesso.c** → Verificação de usuário, dia da semana e turno  
-- **tabuada.c** → Mostra a tabuada de um número  
-- **media_notas.c** → Calcula média de 3 notas  
-- **maior_numero.c** → Compara 3 números e mostra o maior  
-- **positivo_negativo.c** → Verifica se um número é positivo, negativo ou zero  
-- **contador.c** → Contador de 1 até N  
+
+
+## Estrutura do Repositório
+
+
 
 
